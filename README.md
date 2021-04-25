@@ -12,6 +12,8 @@ Send me a message, I would love to hear from you. I am a native English(🇺🇸
 [![made-with-react](https://img.shields.io/badge/Made%20with-React-8b0000.svg)](https://reactjs.org) 
 [![made-with-django](https://img.shields.io/badge/Made%20with-Django-1f425f.svg)](https://ionicframework.com)
 
+A telemedicine platform built to quickly and securly connect doctors with patients via videocall. 
+
 
 ## Misc
 [My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
