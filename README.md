@@ -4,6 +4,16 @@ I'm glad you made it to my Github page. I'm a Fullstack Engineer and digital nom
 
 Send me a message, I would love to hear from you. I am a native English(🇺🇸) speaker and speak Spanish(🇲🇽) fluently.
 
+## Recent projects
+
+### [Zana Salud](https://zanasalud.com/es/inicio/)
+
+![made-with-typescript](https://img.shields.io/badge/Made%20with-Typescript-ffa500.svg)
+[![made-with-react](https://img.shields.io/badge/Made%20with-React-8b0000.svg)](https://reactjs.org) 
+[![made-with-django](https://img.shields.io/badge/Made%20with-Django-1f425f.svg)](https://ionicframework.com)
+
+
+## Misc
 [My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
 
 <!--
