@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Jesse! 👋
 
-My name is Jesse Kelly. I'm glad you made it to my Github page. I'm a Fullstack Engineer and digital nomad currently living in Mexico City, MX. I love functional programming(especially on the fronetend with technologies such as fp-ts, io-ts, and cyclejs), languages, and solving problems. 
+I'm glad you made it to my Github page. I'm a Fullstack Engineer and digital nomad currently living in Mexico City, MX. I love functional programming(especially on the fronetend with technologies such as fp-ts, io-ts, and cyclejs), languages, and solving problems. 
 
 Send me a message, I would love to hear from you. I am a native English(🇺🇸) speaker and speak Spanish(🇲🇽) fluently.
 
