@@ -14,6 +14,11 @@ Send me a message, I would love to hear from you. I am a native English(🇺🇸
 
 A telemedicine platform built to quickly and securly connect doctors with patients via videocall. 
 
+### [Reworth](https://www.reworth.co/)
+
+![made-with-typescript](https://img.shields.io/badge/Made%20with-Typescript-ffa500.svg)
+[![made-with-express](https://img.shields.io/badge/Made%20with-Express-1f425f.svg)](https://reactjs.org) 
+
 
 ## Misc
 [My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
