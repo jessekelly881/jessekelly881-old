@@ -4,6 +4,8 @@ My name is Jesse Kelly. I'm glad you made it to my Github page. I'm a Fullstack 
 
 Send me a message, I would love to hear from you. I am a native English(🇺🇸) speaker and speak Spanish(🇲🇽) fluently.
 
+[My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
+
 <!--
 **jessekelly881/jessekelly881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
