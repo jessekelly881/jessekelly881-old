@@ -19,6 +19,8 @@ A telemedicine platform built to quickly and securly connect doctors with patien
 ![made-with-typescript](https://img.shields.io/badge/Made%20with-Typescript-ffa500.svg)
 [![made-with-express](https://img.shields.io/badge/Made%20with-Express-1f425f.svg)](https://reactjs.org) 
 
+Financial rewards platform, built to help fintecs and banks aquire customers by rewarding card users with automatic cashback on every purchase. 
+
 
 ## Misc
 [My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
