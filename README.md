@@ -22,6 +22,9 @@ A telemedicine platform built to quickly and securly connect doctors with patien
 Financial rewards platform, built to help fintecs and banks aquire customers by rewarding card users with automatic cashback on every purchase. 
 
 
+## Donate!
+Monero: 422MbB3FrhvNahtktdMk5E2JAgCdixKF2afinH1mgh853nHaao7H8BQD1Cj9iGhGB4AdJnm4CVwxXSYSnkF9fvduGMDDQMG
+
 ## Misc
 [My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
 
