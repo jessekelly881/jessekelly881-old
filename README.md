@@ -22,7 +22,7 @@ A telemedicine platform built to quickly and securly connect doctors with patien
 Financial rewards platform, built to help fintecs and banks aquire customers by rewarding card users with automatic cashback on every purchase. 
 
 
-## Donate!
+## Pay/Donate
 [jessekelly.crypto](https://unstoppabledomains.com/d/jessekelly.crypto)
 
 ## Misc
