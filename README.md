@@ -23,7 +23,7 @@ Financial rewards platform, built to help fintecs and banks aquire customers by 
 
 
 ## Donate!
-jessekelly.crypto
+[jessekelly.crypto](https://unstoppabledomains.com/d/jessekelly.crypto)
 
 ## Misc
 [My Resume](https://github.com/jessekelly881/Resume/blob/master/pdf/resume.pdf).
